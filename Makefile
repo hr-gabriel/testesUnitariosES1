@@ -3,7 +3,7 @@
 # Executar os testes com pytest
 test:
 	@echo "Executando testes..."
-	python -m pytest testes.py
+	python -m pytest tests/
 
 # Rodar o programa principal (main.py)
 run:
