@@ -3,6 +3,7 @@
 
 O projeto implementa uma **calculadora completa** com funções **básicas, científicas** e um **conversor de medidas**.  
 As funcionalidades (classes) estão separadas em diferentes arquivos `.py`.  
+Os testes implementados podem ser encontrados na pasta `tests`.
 
 ---
 
