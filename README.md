@@ -40,7 +40,7 @@ As funcionalidades (classes) estão separadas em diferentes arquivos `.py`.
 - Também é possível verificar os testes de cobertura
   - Para isso, executar `pip install coverage` no terminal para instalar o Coverage
   - `python -m coverage run -m pytest tests/` para executar o teste de cobertura
-  - `python -m coverage report` para visualizar o resultado do teste
+  - `python -m coverage report` para visualizar a cobertura dos testes
 
 
 
